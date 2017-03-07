@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea579447f9afb1fbcb28e150e1cd4bfe7f56e75b">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.android.support.constraint-constraint-layout-1.0.0-alpha1_4c26a9e7955cc1035225243a4e5d5dbe609f654c.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea579447f9afb1fbcb28e150e1cd4bfe7f56e75b">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha1_4c26a9e7955cc1035225243a4e5d5dbe609f654c.jar" />
+    </item>
+    <item
+        jar="/home/jatin/.gradle/caches/modules-2/files-2.1/com.darwinsys/hirondelle-date4j/1.5.1/7b52de513f87ae4d9ff5d17518def0a1e9bc3df0/hirondelle-date4j-1.5.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7b52de513f87ae4d9ff5d17518def0a1e9bc3df0">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/hirondelle-date4j-1.5.1_7d707838e32bf146a0efb090e173f637798d5955.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-23.4.0_c229b24cfb7edb945a0dd08cfbea7f057aa67132.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_593121ba17e717ad3ea306b18350ecea78de77e8.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.4.0_593121ba17e717ad3ea306b18350ecea78de77e8.jar" />
+    </item>
+    <item
+        jar="/home/jatin/.gradle/caches/modules-2/files-2.1/com.darwinsys/hirondelle-date4j/1.5.1/7b52de513f87ae4d9ff5d17518def0a1e9bc3df0/hirondelle-date4j-1.5.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7b52de513f87ae4d9ff5d17518def0a1e9bc3df0">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/hirondelle-date4j-1.5.1_7d707838e32bf146a0efb090e173f637798d5955.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_c229b24cfb7edb945a0dd08cfbea7f057aa67132.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/biz.kasual/materialnumberpicker/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="927f6a0e55849a056f0d573a3db63de481381140">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/biz.kasual-materialnumberpicker-1.2.1_072cc12ef70ab4793f93f0da4896509e01c8cee0.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_6fc707e396e4b1ad3f1d05e103fc3af3a0008864.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/AttendanceManager/fancybuttons-1.4/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94ef1ade258bceda0417115fd5330a550341ba60">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/AttendanceManager-fancybuttons-1.4-unspecified_cc0087ff238cbdf068f8ddbef255eca4883f7779.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_06b0ecc8adb88ae469a13d47a3f3a3a3a26f2d38.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/biz.kasual/materialnumberpicker/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="927f6a0e55849a056f0d573a3db63de481381140">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/biz.kasual-materialnumberpicker-1.2.1_072cc12ef70ab4793f93f0da4896509e01c8cee0.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_06b0ecc8adb88ae469a13d47a3f3a3a3a26f2d38.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_6fc707e396e4b1ad3f1d05e103fc3af3a0008864.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.android.support-design-23.4.0_c905bc8315b0c5ed0d35a2ed855308045531e427.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.cuboid/cuboidcirclebutton/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5a25890ba5b70ea20f4921e1fe7683449b03bd1c">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.cuboid-cuboidcirclebutton-1.0.3_6f21858143fb9b3ccf5d5df0e162b641c507603a.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_c905bc8315b0c5ed0d35a2ed855308045531e427.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.majeur.cling/cling/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e9f189f7a72b556f54a3e900dbee747f97f3206">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.majeur.cling-cling-1.1_fdea5dd4c8b9fae63bb75e2b2ab3b2ada6fd19c1.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.cuboid/cuboidcirclebutton/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5a25890ba5b70ea20f4921e1fe7683449b03bd1c">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.cuboid-cuboidcirclebutton-1.0.3_6f21858143fb9b3ccf5d5df0e162b641c507603a.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.majeur.cling/cling/1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e9f189f7a72b556f54a3e900dbee747f97f3206">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.majeur.cling-cling-1.1_fdea5dd4c8b9fae63bb75e2b2ab3b2ada6fd19c1.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.roomorama/caldroid/3.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fea01abd91186a7148aaaf8c517b823eedaac79a">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.roomorama-caldroid-3.0.1_504bb612c8a77cad2e6febdaff2daf704de31915.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.roomorama/caldroid/3.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fea01abd91186a7148aaaf8c517b823eedaac79a">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.roomorama-caldroid-3.0.1_504bb612c8a77cad2e6febdaff2daf704de31915.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.github.florent37/androidparallax/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="16e578dc74247f694a05d8a7628f3dd58c84633f">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.github.florent37-androidparallax-1.0.1_5b2c7e57b3c544c8b8f91eda01cb9c958d6344dc.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.github.florent37/androidparallax/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="16e578dc74247f694a05d8a7628f3dd58c84633f">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.github.florent37-androidparallax-1.0.1_5b2c7e57b3c544c8b8f91eda01cb9c958d6344dc.jar" />
+    </item>
+    <item
+        jar="/home/jatin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_e5b2fe51c332ad1de05426e4c08816d19a9e0d9b.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_de96e11bdb3a0965f4cd683c7ccfe6b25f4d8c3c.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_2b9cacf1ed0ca99ba9a4fafbdf0c3fb8bbca2ae7.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.4.0_de96e11bdb3a0965f4cd683c7ccfe6b25f4d8c3c.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.4.0_2b9cacf1ed0ca99ba9a4fafbdf0c3fb8bbca2ae7.jar" />
+    </item>
+    <item
+        jar="/home/jatin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_e5b2fe51c332ad1de05426e4c08816d19a9e0d9b.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.5.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1673f8c309d1e1f9f7cc4c064f46d1b3a58d47ff">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.github.ksoichiro-android-observablescrollview-1.5.2_7a36904fdc4a18d25fb6129460b663b1dab89b9f.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1673f8c309d1e1f9f7cc4c064f46d1b3a58d47ff">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.github.ksoichiro-android-observablescrollview-1.5.2_7a36904fdc4a18d25fb6129460b663b1dab89b9f.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.github.alamkanak/android-week-view/1.2.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="393eb85d65baa2c3702efdf699832498f8b51bf1">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.github.alamkanak-android-week-view-1.2.6_e657e43c1f07ddebcdb36e2e167597a2f09dbb30.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.github.alamkanak/android-week-view/1.2.6/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="393eb85d65baa2c3702efdf699832498f8b51bf1">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.github.alamkanak-android-week-view-1.2.6_e657e43c1f07ddebcdb36e2e167597a2f09dbb30.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9dc4fc8bb79480c3e9ec17864575a88feff00d11">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/instant-run_310d529f692cb6e44a7ea2b9132af1c16c232cfc.jar" />
+    </item>
+    <item
+        jar="/home/jatin/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/library-2.4.0_7ede24e9ebdfd05e808af336828aabd3daf28b5a.jar" />
+    </item>
+    <item
+        jar="/home/jatin/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/library-2.4.0_7ede24e9ebdfd05e808af336828aabd3daf28b5a.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/me.spark/submitbutton/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b22da5cc8a23af8ac372a88bb5cc3815205e78a6">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/me.spark-submitbutton-1.0.1_59ef098ff410bb3727e9438e30798f9856575c39.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/me.spark/submitbutton/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b22da5cc8a23af8ac372a88bb5cc3815205e78a6">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/me.spark-submitbutton-1.0.1_59ef098ff410bb3727e9438e30798f9856575c39.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.4.0_863b184fa90236f0061ca126410d9b6cfd7b76b2.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_863b184fa90236f0061ca126410d9b6cfd7b76b2.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_3e36f2c5962081a97283736f907cce63f3c1e296.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_3e36f2c5962081a97283736f907cce63f3c1e296.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.github.ybq-Android-SpinKit-1.1.0_b296ed57ea5c596f4c0dfdc66b2bb7c4b1f2a064.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.github.ybq-Android-SpinKit-1.1.0_b296ed57ea5c596f4c0dfdc66b2bb7c4b1f2a064.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.github.TouchBoarder/weekdays-buttons-bar/v1.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2472a2341b65c9701e00cc37dc91701843fcae88">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.github.TouchBoarder-weekdays-buttons-bar-v1.0.2_ee92d6473622fc18ea5aa763066747cfba8489f6.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.github.TouchBoarder/weekdays-buttons-bar/v1.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2472a2341b65c9701e00cc37dc91701843fcae88">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.github.TouchBoarder-weekdays-buttons-bar-v1.0.2_ee92d6473622fc18ea5aa763066747cfba8489f6.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.zcw/togglebutton-library/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c72331e851e2b8c5a84f401a53bdcd34fb117aa">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.zcw-togglebutton-library-1.0.0_573a6562dc21ea0db8fd69f022ea6e261a1f8f7b.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.github.zurche/plain-pie/v0.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6428323fc97324fb5444c2fabe73e5340aecf584">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/com.github.zurche-plain-pie-v0.1.1_705189fc21004e6f09b06bfa8ec0841e0edefdb2.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.zcw/togglebutton-library/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1c72331e851e2b8c5a84f401a53bdcd34fb117aa">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.zcw-togglebutton-library-1.0.0_573a6562dc21ea0db8fd69f022ea6e261a1f8f7b.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/com.github.zurche/plain-pie/v0.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6428323fc97324fb5444c2fabe73e5340aecf584">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/com.github.zurche-plain-pie-v0.1.1_705189fc21004e6f09b06bfa8ec0841e0edefdb2.jar" />
+    </item>
+    <item
+        jar="/home/jatin/Android/Sdk/extras/android/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha1/constraint-layout-solver-1.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="78d61c347aa5002119e3c17bffcbebf28fe07b0b">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.0-alpha1_9b16ea4f4d39537ee90d1413a677d18524b7b7b2.jar" />
+    </item>
+    <item
+        jar="/home/jatin/Android/Sdk/extras/android/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha1/constraint-layout-solver-1.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78d61c347aa5002119e3c17bffcbebf28fe07b0b">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha1_9b16ea4f4d39537ee90d1413a677d18524b7b7b2.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d8dd42cb6488224eb6342396bd0a45047e277bd3">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_ba78706b2eec66b13851c99e35c53a8ac9b33d6a.jar" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/exploded-aar/AttendanceManager/fab-1.6.4/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/home/jatin/AndroidStudioProjects/AttendanceManager/app/build/intermediates/pre-dexed/release/AttendanceManager-fab-1.6.4-unspecified_40694815ab0ecdb2dc5213a446629cf3a4a7ac05.jar" />
+    </item>
+
+</items>
